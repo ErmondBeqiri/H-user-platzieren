@@ -1,0 +1,8 @@
+﻿<Window x:Class="UML_Haus_Vererbenn.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="900">
+    <Grid>
+        <Canvas Background="ForestGreen" x:Name="MainCanvas" MouseDown="Canvas_MouseDown"/>
+    </Grid>
+</Window>

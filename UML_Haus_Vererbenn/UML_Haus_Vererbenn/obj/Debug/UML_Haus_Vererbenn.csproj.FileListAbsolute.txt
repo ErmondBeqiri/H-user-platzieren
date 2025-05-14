@@ -1,0 +1,14 @@
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\UML_Haus_Vererbenn.csproj.AssemblyReference.cache
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\MainWindow.g.cs
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\App.g.cs
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\UML_Haus_Vererbenn_MarkupCompile.cache
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\bin\Debug\UML_Haus_Vererbenn.exe.config
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\bin\Debug\UML_Haus_Vererbenn.exe
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\bin\Debug\UML_Haus_Vererbenn.pdb
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\MainWindow.baml
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\UML_Haus_Vererbenn.g.resources
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\UML_Haus_Vererbenn.Properties.Resources.resources
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\UML_Haus_Vererbenn.csproj.GenerateResource.cache
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\UML_Haus_Vererbenn.csproj.CoreCompileInputs.cache
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\UML_Haus_Vererbenn.exe
+C:\Users\Schueler\source\repos\UML_Haus_Vererbenn\UML_Haus_Vererbenn\obj\Debug\UML_Haus_Vererbenn.pdb
